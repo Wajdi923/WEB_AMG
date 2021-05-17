@@ -157,6 +157,12 @@ img {
     margin-left: 32px
 }
 
+@media(max-width:1600px) {
+    .test {
+        display: none;
+    }
+}
+
 @media(max-width:768px) {
     .barre {
         display: none
